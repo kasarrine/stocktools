@@ -1,4 +1,7 @@
 # stocktools
+# Kirk Sarrine
+# kasarrine@gmail.com
+
 This is a collection of Python Tools that utilize yfinance.
 
 The example script asks for a ticker symbol and a time period, then pulls the data from Yahoo Finance if available.
